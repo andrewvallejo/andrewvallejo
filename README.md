@@ -14,7 +14,7 @@
 
 <sub>These stats to me are a reflection of a</sub> <b>growth mindset</b>. 
 </br>
-<sub> I hope with every single project I contribute to that I never platue. Every commit to this day is a representation of me trying something new.
+<sub> I hope with every single project I contribute to, that I never plateau. Every commit to this day is a representation of me trying something new.
 I keep my old projects so that someday my growth in coding can be tangible.</sub>
 </div>  
 <img width="300" align='right' src="https://i.imgur.com/QJnKUOP.jpg" /> 
