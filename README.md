@@ -1,4 +1,6 @@
 # <div align="center">Const { stats, aboutMe, technologies } = andrewVallejo</div>  
+## <div align="center">Changing the world, one line at time.
+</div>  
  
 
 <div align="center"> Hola Mundo! 🌎 I am a front-end developer with a passion for the world! I hope to spread compassion in tech with the influence of my code, one line at a time.</div>  
@@ -10,7 +12,7 @@
 </p>
 <div align="right">  
 
- ### ⎰stats⎱ 
+### ⎰stats⎱ 
 
 <sub>These stats to me are a reflection of a</sub> <b>growth mindset</b>. 
 </br>
@@ -34,19 +36,28 @@ I feel like my life could be summed up in these emojis:</sub>
 ---
 
 <br/> 
+
+### <div align="center">⎰currentStatus⎱</div>  
+<sub>
+I am currently co-learning Next.JS and TypeScript in my current pet project- <a href="https://github.com/andrewvallejo/lettra">Lettra</a>.
+ This application is a means to aid job seekers by reducing the time it takes to write a cover letter by having the user set their variables and be able to change all occurrence of any words all at once effortlessly.</sub>
  
- 
-### <div align="center">⎰technologies ⎱</div>  
+### <div align="center">⎰technologies⎱</div>  
 
 <div align="center">  
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">
+ <img src='https://img.shields.io/badge/Redux-764ABC?logo=react&logoColor=fff&style=flat' alt='Redux Badge'>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript Badge">
+ <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square" alt="Node.js Badge">
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" alt="HTML5 Badge">
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" alt="CSS3 Badge">
 <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat-square" alt="Sass Badge"> 
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat" alt="Tailwind CSS Badge">
 <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat-square" alt="Express Badge">
+ <img src="https://img.shields.io/badge/Fastify-000?logo=fastify&logoColor=fff&style=flat-square" alt="Fastify Badge">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square" alt="PostgreSQL Badge"> 
 <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat-square" alt="Heroku Badge"> 
+<img src= 'https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=flat' alt='Netlify Badge'>
 <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=fff&style=flat-square" alt="Cypress Badge">  
 <img src="https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=fff&style=flat-square" alt="Chai Badge">
 <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff&style=flat-square" alt="Mocha Badge"> 
@@ -56,7 +67,10 @@ I feel like my life could be summed up in these emojis:</sub>
 </div>   
 <br/>  
 
-##  <div align="center">⎰Contact⎱</div>
+
+
+
+###  <div align="center">⎰Contact⎱</div>
 
 <br/> 
 <div align="center">
