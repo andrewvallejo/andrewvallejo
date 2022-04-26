@@ -46,6 +46,7 @@ I am currently co-learning Next.JS and TypeScript in my current pet project- <a 
 
 <div align="center">  
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">
+ <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square" alt="Next.js Badge">
  <img src='https://img.shields.io/badge/Redux-764ABC?logo=react&logoColor=fff&style=flat' alt='Redux Badge'>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript Badge">
  <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square" alt="Node.js Badge">
@@ -57,7 +58,8 @@ I am currently co-learning Next.JS and TypeScript in my current pet project- <a 
  <img src="https://img.shields.io/badge/Fastify-000?logo=fastify&logoColor=fff&style=flat-square" alt="Fastify Badge">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square" alt="PostgreSQL Badge"> 
 <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat-square" alt="Heroku Badge"> 
-<img src= 'https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=flat' alt='Netlify Badge'>
+<img src='https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=flat' alt='Netlify Badge'>
+<img src='https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat-square' alt='Vercel Badge'>
 <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=fff&style=flat-square" alt="Cypress Badge">  
 <img src="https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=fff&style=flat-square" alt="Chai Badge">
 <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff&style=flat-square" alt="Mocha Badge"> 
