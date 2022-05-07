@@ -1,4 +1,4 @@
-# <div align="center">Const { stats, aboutMe, technologies } = andrewVallejo</div>  
+# <div align="center">Const { stats, aboutMe, currentStatus technologies } = andrewVallejo</div>  
 ## <div align="center">Changing the world, one line at time.
 </div>  
  
