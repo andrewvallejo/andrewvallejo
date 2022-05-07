@@ -6,6 +6,7 @@
 <div align="center"> Hola Mundo! 🌎 I am a front-end developer with a passion for the world! I hope to spread compassion in tech with the influence of my code, one line at a time.</div>  
   
 ---
+
   
 <p>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=andrewvallejo&hide=stars&show_icons=true&theme=maroongold">
@@ -14,20 +15,21 @@
 
 ### ⎰stats⎱ 
 
-<sub>These stats to me are a reflection of a</sub> <b>growth mindset</b>. 
-</br>
-<sub> I hope with every single project I contribute to, that I never plateau. Every commit to this day is a representation of me trying something new.
-I keep my old projects so that someday my growth in coding can be tangible.</sub>
+<sub>My stats are a reflection of my</sub> <b>growth mindset</b>. 
+<sub> I aspire to never plateau and only </sub><b>grow</b><sub> with each contribution I make to the digital world. I hope that the lines of code that I write will someday become something more than tangible for people to use.</sub>
 </div>  
-<img width="300" align='right' src="https://i.imgur.com/QJnKUOP.jpg" /> 
+
+<img width="300" align='right' src="https://user-images.githubusercontent.com/17935770/167273209-bda25895-84fb-4de5-a75e-77cfebe77d37.JPG" /> 
+
 <br/> 
 
 ### <div align="center">⎰aboutMe⎱</div>  
 
 <p align="center">
-<sub>When there isn't a computer screen in front of me, there is a camera instead! Capturing beautiful moments around the world and sharing my perspective with those who are willing to see it.
-<br/> 
-I feel like my life could be summed up in these emojis:</sub>
+<sub>When there isn't a computer screen in front of me, there is a camera instead! Capturing beautiful moments worldwide and sharing my perspective with those willing to see it.</p>
+</sub>
+<p align="center"> 
+I feel like my life could be summed up with these emojis 
 </br> 
 </br>
 ⌟ 🇵🇪 🎮 ✈️ ☕️ 🛹 🌎 ⛰ 🎒 📖 ♓️ 🍣 💛 🎞 📸 💻 ☀️ 🇵🇦 ⌞
@@ -38,9 +40,14 @@ I feel like my life could be summed up in these emojis:</sub>
 <br/> 
 
 ### <div align="center">⎰currentStatus⎱</div>  
-<sub>
-I am currently co-learning Next.JS and TypeScript in my current pet project- <a href="https://github.com/andrewvallejo/lettra">Lettra</a>.
- This application is a means to aid job seekers by reducing the time it takes to write a cover letter by having the user set their variables and be able to change all occurrence of any words all at once effortlessly.</sub>
+
+<div  align='right'>
+
+I am currently co-learning Next.JS and TypeScript in my current project: <a href="https://github.com/andrewvallejo/lettra">Lettra</a>
+<img align='left' src="https://user-images.githubusercontent.com/17935770/167260199-2edfda2a-475a-4cb7-8aa9-c787de97ba2b.png" alt="logo" width="100"/>
+ <sub>This application is a means to aid job seekers in reducing the time it takes to write a cover letter by being able to assign words to variables and changing all subsequent occurrences of the word effortlessly.</sub>
+ 
+</div>
  
 ### <div align="center">⎰technologies⎱</div>  
 
@@ -72,7 +79,7 @@ I am currently co-learning Next.JS and TypeScript in my current pet project- <a 
 
 
 
-###  <div align="center">⎰Contact⎱</div>
+###  <div align="center">⎰Contact Me⎱</div>
 
 <br/> 
 <div align="center">
@@ -83,7 +90,7 @@ I am currently co-learning Next.JS and TypeScript in my current pet project- <a 
 〉〈
 <a href="https://linkedin.com/in/andrewvallejo" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>
 〉
 </div>  
   
