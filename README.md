@@ -53,16 +53,16 @@ I am currently co-learning Next.JS and TypeScript in my current project: <a href
 
 <div align="center">  
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">
- <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square" alt="Next.js Badge">
- <img src='https://img.shields.io/badge/Redux-764ABC?logo=react&logoColor=fff&style=flat' alt='Redux Badge'>
+<img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square" alt="Next.js Badge">
+<img src='https://img.shields.io/badge/Redux-764ABC?logo=react&logoColor=fff&style=flat' alt='Redux Badge'>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript Badge">
- <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square" alt="Node.js Badge">
+<img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square" alt="Node.js Badge">
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" alt="HTML5 Badge">
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" alt="CSS3 Badge">
 <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat-square" alt="Sass Badge"> 
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat" alt="Tailwind CSS Badge">
 <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat-square" alt="Express Badge">
- <img src="https://img.shields.io/badge/Fastify-000?logo=fastify&logoColor=fff&style=flat-square" alt="Fastify Badge">
+<img src="https://img.shields.io/badge/Fastify-000?logo=fastify&logoColor=fff&style=flat-square" alt="Fastify Badge">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square" alt="PostgreSQL Badge"> 
 <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat-square" alt="Heroku Badge"> 
 <img src='https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=flat' alt='Netlify Badge'>
@@ -74,18 +74,11 @@ I am currently co-learning Next.JS and TypeScript in my current project: <a href
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=flat-square" alt="Adobe Illustrator Badge">
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat-square" alt="Adobe Photoshop Badge"> 
 </div>   
-<br/>  
 
+---
 
-
-
-###  <div align="center">⎰Contact Me⎱</div>
-
-<br/> 
-<div align="center">
-〈
-<a href="https://twitter.com/andrewAvallejo" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+###  <div align="center"> ⎰Contact Me ⎱ </div>
+<div align="center">〈 <a href="https://twitter.com/andrewAvallejo" target="_blank"> <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a> 
 〉〈
 <a href="https://linkedin.com/in/andrewvallejo" target="_blank">
@@ -93,4 +86,4 @@ I am currently co-learning Next.JS and TypeScript in my current project: <a href
 </a>
 〉
 </div>  
-  
+ 
