@@ -55,6 +55,7 @@ I am currently co-learning Next.JS and TypeScript in my current project: <a href
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">
 <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square" alt="Next.js Badge">
 <img src='https://img.shields.io/badge/Redux-764ABC?logo=react&logoColor=fff&style=flat' alt='Redux Badge'>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square" alt="TypeScript Badge">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript Badge">
 <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square" alt="Node.js Badge">
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" alt="HTML5 Badge">
