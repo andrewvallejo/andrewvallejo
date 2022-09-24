@@ -4,9 +4,7 @@
  
 
 <div align="center"> Hola Mundo! 🌎 I am a front-end developer with a passion for the world! I hope to spread compassion in tech with the influence of my code, one line at a time.</div>  
-  
----
-
+ 
   
 <p>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=andrewvallejo&hide=stars&show_icons=true&theme=maroongold">
@@ -44,15 +42,26 @@ I feel like my life could be summed up with these emojis
 
 <div  align='right'>
 
-I am currently co-learning Next.JS and TypeScript in my current project: <a href="https://github.com/andrewvallejo/lettra">Lettra</a>
-<img align='left' src="https://user-images.githubusercontent.com/17935770/167260199-2edfda2a-475a-4cb7-8aa9-c787de97ba2b.png" alt="logo" width="100"/>
- <sub>This application is a means to aid job seekers in reducing the time it takes to write a cover letter by being able to assign words to variables and changing all subsequent occurrences of the word effortlessly.</sub>
+I am currently developing my app in Svelte (originally built in React), and it's called  <a href="https://github.com/andrewvallejo/lettra">Lettra</a>
+<img align='left' src="https://user-images.githubusercontent.com/17935770/167260199-2edfda2a-475a-4cb7-8aa9-c787de97ba2b.png" alt="logo" width="100"/> 
+
+ <sub>
+ This application is a means to aid job seekers in reducing the time it takes to write a cover letter by being able to assign words to variables and changing all subsequent occurrences of the word effortlessly.
+ </sub>
  
+ ---
+
+<sub>
+The development has been slow since making the "engine" work smoothly has been my prime objective. It's been challenging since I've had to essentially rebuild the functionality of the textarea input in order to have the text manipulation happen live. I've recently squashed most of the big bugs and I expect to reach version 1.0 by October 1, 2022.
+</sub>
+ 
+---
 </div>
  
 ### <div align="center">⎰technologies⎱</div>  
 
 <div align="center">  
+<img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=flat" alt="Svelte Badge">
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">
 <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square" alt="Next.js Badge">
 <img src='https://img.shields.io/badge/Redux-764ABC?logo=react&logoColor=fff&style=flat' alt='Redux Badge'>
