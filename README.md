@@ -4,18 +4,6 @@
  
 
 <div align="center"> Hola Mundo! 🌎 I am a front-end developer with a passion for the world! I hope to spread compassion in tech with the influence of my code, one line at a time.</div>  
- 
-  
-<p>
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=andrewvallejo&hide=stars&show_icons=true&theme=maroongold">
-</p>
-<div align="right">  
-
-### ⎰stats⎱ 
-
-<sub>My stats are a reflection of my</sub> <b>growth mindset</b>. 
-<sub> I aspire to never plateau and only </sub><b>grow</b><sub> with each contribution I make to the digital world. I hope that the lines of code that I write will someday become something more than tangible for people to use.</sub>
-</div>  
 
 <img width="300" align='right' src="https://user-images.githubusercontent.com/17935770/167273209-bda25895-84fb-4de5-a75e-77cfebe77d37.JPG" /> 
 
