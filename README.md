@@ -1,25 +1,29 @@
-## <div align="center">Changing the world, one line at time.
-</div>  
- 
+<div align="center">
 
-<div align="center"> Hola Mundo! 🌎 I am a front-end developer with a passion for the world! I hope to spread compassion in tech with the influence of my code, one line at a time.</div>  
+# Hola Mundo! 🌎
 
+**Software Engineer III building frontend systems for complex workflows.**
 
-### <div align="center">⎰aboutMe⎱</div>  
+React · TypeScript · Remix · PostgreSQL · Testing · Developer Tooling
+
+</div>
+
+---
+
+### <div align="center">⎰aboutMe⎱</div>
 
 <p align="center">
-<sub>When there isn't a computer screen in front of me, there is a camera instead! Capturing beautiful moments worldwide and sharing my perspective with those willing to see it.</p>
-</sub>
-<p align="center"> 
-I feel like my life could be summed up with these emojis 
-</br> 
-</br>
+I like the parts of frontend work that get messy fast: state ownership, complex UI behavior, reusable patterns, and figuring out how to leave a codebase easier for the next developer to work in.
+</p>
+
+<p align="center">
+When there isn't a computer screen in front of me, there's usually a camera instead. I love traveling, taking photos, and finding new places to see the world from.
+</p>
+
+<p align="center">
+I still think my life can be summed up pretty well with these:
+<br/><br/>
 ⌟ 🇵🇪 🎮 ✈️ ☕️ 🛹 🌎 ⛰ 🎒 📖 ♓️ 🍣 💛 🎞 📸 💻 ☀️ 🇵🇦 ⌞
 </p>
 
 ---
-
-<br/> 
-
-
- 
